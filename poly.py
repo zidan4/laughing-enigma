@@ -11,4 +11,4 @@ myline = numpy.linspace(1, 22, 100)
 
 plt.scatter(x, y)
 plt.plot(myline, mymodel(myline))
-plt.show() 
+plt.show()
